@@ -10,7 +10,7 @@ cryptography==42.0.7
 jira @ git+https://github.com/pycontribs/jira.git@010223289eb66663aaafb70447397038efb2d40d
 
 # Dependencies of required packages above.
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 defusedxml==0.7.1
