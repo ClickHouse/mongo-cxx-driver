@@ -16,6 +16,9 @@
 
 #include <mongocxx/v1/oidc_callback.hpp> // IWYU pragma: export
 
+#include <mongocxx/v1/oidc_callback_params.hpp>
+#include <mongocxx/v1/oidc_credential.hpp>
+
 //
 
 #include <mongocxx/private/mongoc.hh>
